@@ -29,7 +29,7 @@ END_MESSAGE_MAP()
 
 
 // CFirstApp 생성
-
+//아무말
 CFirstApp::CFirstApp() noexcept
 {
 	// 다시 시작 관리자 지원
